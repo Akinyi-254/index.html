@@ -28,7 +28,7 @@
     <!-- External Image from Pexels -->
     <section>
         <h2>Image from Pexels</h2>
-        <img src="[https://www.pexels.com/photo/three-giraffe-under-gray-sky-34098/)" alt="Giraffe under gray sky" width="600">
+        <img src="[https://www.pexels.com/photo/three-giraffe-under-gray-sky-34098/]" alt="Giraffe under gray sky" width="600">
     </section>
 
     <!-- Table of Contacts -->
